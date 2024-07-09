@@ -26,4 +26,4 @@ I'm currently diving deep into the world of **Computer Science** with a shiny sp
 - **Fun Stuff:** Creating data visualizations that make people go "Whoa, data can look this cool?" 🎨
 - 
 ## 🧩 Fun Fact
-I once wrote an entire program just to decide what to have for lunch. Spoiler: It chose pizza. 🍕
+i touch grass and also write some poems 
