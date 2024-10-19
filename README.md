@@ -24,6 +24,5 @@ I'm currently diving deep into the world of **Computer Science** with a shiny sp
 - **Learning:** Deep learning, NLP, and all the buzzwords that make my non-tech friends' eyes glaze over 🤓
 - **Projects:** Building models, crunching numbers, and trying to predict the future (one dataset at a time)
 - **Fun Stuff:** Creating data visualizations that make people go "Whoa, data can look this cool?" 🎨
-- 
 ## 🧩 Fun Fact
 i touch grass and also write some poems
