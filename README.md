@@ -6,7 +6,7 @@ Welcome to my GitHub corner! If you're here, you're probably curious about what 
 
 I'm currently diving deep into the world of **Computer Science** with a shiny specialization in **Data Science**. Picture me as a digital Sherlock Holmes, except instead of solving mysteries with a magnifying glass, I do it with code and data! 🔍💻
 
-### ✍️ Random Dev Quote
+### ✍️ My Fav Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🎓 Education
